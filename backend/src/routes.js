@@ -44,7 +44,7 @@ const routes = express.Router();
 //     return response.json({
 //         evento:'Curso react',
 //         aluno:'Cristian'
-//     });
+//     });   
 
 // });
 // routes.post('/users2',(request, response)=>{ 
